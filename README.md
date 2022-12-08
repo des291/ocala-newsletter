@@ -16,6 +16,6 @@
 
 ## See it live!
 
-    Navigate [here[](https://des291.github.io/ocala-newsletter) to see it live!
+    Navigate here https://des291.github.io/ocala-newsletter to see it live!
 
 
